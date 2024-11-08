@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ## 最近更新
 
-📱 Mobile Update: 2024-11-08 08:13:05 via SSH Auto Check
+🖥️ PC Update: 2024-11-08 16:35:00 from RickRen.local (Darwin)
 
-🖥️ PC Update: 2024-11-08 15:16:17 from RickRen.local (Darwin)
+📱 Mobile Update: 2024-11-08 08:13:05 via SSH Auto Check
